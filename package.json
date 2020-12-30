@@ -5,6 +5,6 @@
     "jest": "^26.6.3"
   },
   "scripts": {
-    "test": "jest chapter_3/"
+    "test": "jest"
   }
 }
