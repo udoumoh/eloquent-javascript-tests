@@ -10,5 +10,5 @@ const chessBoardGenerator = (size=8) => {
     return chessBoard;
 }
 
-chessBoardGenerator();
+
 module.exports = chessBoardGenerator;
