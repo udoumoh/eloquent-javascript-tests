@@ -18,7 +18,7 @@ Yarn / npm
 
 ### Installing
 
-1. Mark a fork of this repository
+1. Mark a fork of this repository.
     *Get a guide [here](https://guides.github.com/activities/forking/)*
 
 2. Clone your forked copy of the repository to your dev machine.
@@ -30,11 +30,11 @@ Yarn / npm
     ```
 4. Install dependencies
     ```
-    yarn install
+    yarn install --frozen-lockfile
     ```
     or
     ```
-    npm install
+    npm ci
     ```
 ## Running the tests
 1. Run all tests.
@@ -57,7 +57,7 @@ Yarn / npm
     npm test chapter_2/
     ```
 3. Run with github actions
-Tests are also run automatically by github actions when you push to github. Click on the actions tab in your repo for more details.
+Tests are run automatically by github actions when you push to github. Click on the actions tab in your repo for more details.
 
 
 ## Built With
@@ -70,4 +70,4 @@ Tests are also run automatically by github actions when you push to github. Clic
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
