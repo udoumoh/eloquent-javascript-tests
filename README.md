@@ -66,7 +66,7 @@ Tests are also run automatically by github actions when you push to github. Clic
 
 ## Authors
 
-* **Ajawu David** - *Other work* - [Github](https://github.com/ajawu)
+* **Ajawu David** - *Initial work* - [Github](https://github.com/ajawu)
 
 ## License
 
