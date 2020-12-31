@@ -19,11 +19,11 @@ Yarn / npm
 ### Installing
 
 1. Mark a fork of this repository
-*Get a guide [here](https://guides.github.com/activities/forking/)*
-<br />
+    *Get a guide [here](https://guides.github.com/activities/forking/)*
+
 2. Clone your forked copy of the repository to your dev machine.
-*Get a guide [here](https://guides.github.com/activities/forking/)*
-<br />
+    *Get a guide [here](https://guides.github.com/activities/forking/)*
+
 3. Cd into the project directory
     ```
     cd eloquent-javascript-tests/
