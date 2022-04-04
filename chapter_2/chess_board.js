@@ -6,7 +6,11 @@
 const chessBoardGenerator = (size=8) => {
     let chessBoard = '';
     // Write code to genrate chess board after this line
-
+let count = "";
+    while(count.length <= 6){
+    count += "#";
+    console.log(count);
+}
     return chessBoard;
 }
 
