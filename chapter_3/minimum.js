@@ -6,6 +6,12 @@
  */
 const minimum = (firstValue, secondValue) => {
    // Enter code to find minimum number
+   let min = function(a,b){
+ if((a - b) < 0)
+   return a;
+  else
+    return b; 
+}
 }
 
 
