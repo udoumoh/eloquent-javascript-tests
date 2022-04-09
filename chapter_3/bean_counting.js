@@ -7,6 +7,21 @@
  */
 function countChar(character) {
     // Enter code to return character counting function
+    function countBs(text){
+  return countChar(text, "B");
+}
+
+function countChar(text, letter){
+  let count = 0;
+  let textString = text.toString();
+  let letterString = text.toString();
+  for(let i = 0; i < textString.length; i++){
+    if(textString[i] == `${letter}`){
+      count += 1;
+    }
+  }
+  return count;
+}
 }
 
 // Hint: Check out the closure section
